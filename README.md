@@ -1,3 +1,3 @@
-# RealEstate Dapp
+# ManageStudent Dapp
 
-Making RealEstate Dapp with solidity and truffle
+Making ManageStudent Dapp with solidity and truffle
